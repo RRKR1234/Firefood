@@ -1,0 +1,19 @@
+.topnav{
+background-color: darkblue;
+	overflow: hidden;
+	width: 1700px;
+	height: 50px;
+	word-spacing: 300px;
+	font-size: 30px; 
+}
+.text{
+	width: 200px;
+	height: 200px;
+}
+.hi{
+	color: lightgreen;
+	text-decoration: none;
+}
+body{
+	background-image: iam.jpg;
+}

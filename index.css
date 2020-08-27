@@ -1,0 +1,22 @@
+.topnav{
+background-color: darkblue;
+	overflow: hidden;
+	width: 1700px;
+	height: 50px;
+	word-spacing: 200px;
+	font-size: 30px; 
+}
+img{
+	width: 850px;
+	height: 500px;
+}
+a{
+	text-decoration: none;
+	color: lightgreen;
+}
+sup{
+	height: 3px;
+}
+h1{
+	color: darkgreen;
+}
